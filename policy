@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="icon" href="Puppy.png">
+<title>Puppy PlayGround Privacy & Policy</title>
+</head>
+<style>
+body {
+	color: white;
+}
+h1 {
+	color: #FFFFFF;
+}
+p {
+	color: rgb(255,255,255)
+}
+</style>
+<body background="BackGround.png" style="background-color:#8B6C54">
+<body>
+<font face="Sans-serif">
+<h2> <center> Privacy & Policy </center> </h2>
+<br>
+<h2> <center> The team at "ReHap Games" will not use your personal information to dox, threaten, etc. </center> </h2>
+<h2> <center> We need this information to look through in-game banning to detect any suspicious activity with banned players, for example: ban evasion. </center> </h2>
+<h2> <center> The “Rehap Games” Team collects IP Adresses, as well as the players country and city, as well as users id. </center> </h2>
+<h2> <center> If you would for your information to be deleted, direct message anyone on the “The Future Reality” team on “Discord”. </center> </h2>
+<h2> <center> We will delete all your information on our servers. However, if your information gets deleted, you can no longer play the game im working on currently. </center> </h2>
+<h2> <center> This is because if we delete your information, it will auto-generate a different account on game login after your previous account has been destroyed. </center> </h2>
+</font>
+</body>
+</html>
